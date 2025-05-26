@@ -21,36 +21,36 @@ function Whatwedo() {
               <div className='grid lg:grid-cols-3 sm:grid-cols-1 px-10 h-[50vh]'>
                 <div className="shadow h-[200px]   border w-[180px]  text-center rounded-[20px]">
                   <img className='mx-auto' src="https://digital-business-next.vercel.app/_next/image?url=%2Ffeatures%2FFrame-0.png&w=128&q=75" alt="" />
-                  <p className='text-[#221577] text-[22px] py-3'>3x monthly revenue</p>
+                  <p className='text-[#221577] text-[20px] py-3'>3x monthly revenue</p>
                 </div>
                 <div className="shadow  h-[200px] ml-5 border w-[180px] px-3 translate-y-[40%] text-center rounded-[20px]">
                   <img className='mx-auto' src="https://digital-business-next.vercel.app/_next/image?url=%2Ffeatures%2FFrame-1.png&w=128&q=75" alt="" />
-                  <p className='text-[#221577] text-[22px] '>Flat fee of 6-12%</p>
+                  <p className='text-[#221577] text-[20px] '>Flat fee of 6-12%</p>
                 </div>
                 <div className="shadow h-[250px] ml-9  border w-[180px] pr-4 text-center rounded-[20px]">
                   <img className='mx-auto' src="https://digital-business-next.vercel.app/_next/image?url=%2Ffeatures%2FFrame-2.png&w=128&q=75" alt="" />
-                  <p className='text-[#221577] text-[22px] py-3'>Flexible repayments by revenue share</p>
+                  <p className='text-[#221577] text-[20px] py-3'>Flexible repayments by revenue share</p>
                 </div>
               </div>
             </div>
 
             <div className='shadow border rounded-[30px]'>
               <h1 className='text-[#221577] text-[30px] py-4'>Blue  Seed</h1>
-              <p className='text-[#221577] text-[22px]'>Fund one-offs to scale e.g. product, hiring</p>
+              <p className='text-[#221577] text-[20px]'>Fund one-offs to scale e.g. product, hiring</p>
 
 
               <div className='grid grid-cols-3  px-10 h-[50vh]'>
                 <div className="shadow h-[200px]   border w-[150px]   translate-y-[20%]  text-center rounded-[20px]">
                   <img className='mx-auto' src="https://digital-business-next.vercel.app/_next/image?url=%2Ffeatures%2FFrame-3.png&w=128&q=75" alt="" />
-                  <p className='text-[#221577] text-[22px] py-3'>3-4 years repayment</p>
+                  <p className='text-[#221577] text-[20px] py-3'>3-4 years repayment</p>
                 </div>
                 <div className="shadow  h-[200px]  border w-[170px] px-3 text-center rounded-[20px]">
                   <img className='mx-auto' src="https://digital-business-next.vercel.app/_next/image?url=%2Ffeatures%2FFrame-4.png&w=128&q=75" alt="" />
-                  <p className='text-[#221577] text-[22px] '>$10-100k seed investment</p>
+                  <p className='text-[#221577] text-[20px] '>$10-100k seed investment</p>
                 </div>
                 <div className="shadow h-[200px] ml-3  border w-[180px]  translate-y-[20%]  pr-4 text-center rounded-[20px]">
                   <img className='mx-auto' src="https://digital-business-next.vercel.app/_next/image?url=%2Ffeatures%2FFrame-5.png&w=128&q=75" alt="" />
-                  <p className='text-[#221577] text-[22px] py-3'>2% of revenue up to 3X cap</p>
+                  <p className='text-[#221577] text-[20px] py-3'>2% of revenue up to 3X cap</p>
                 </div>
               </div>
             </div>
