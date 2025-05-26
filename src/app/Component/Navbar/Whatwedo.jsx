@@ -12,13 +12,13 @@ function Whatwedo() {
             </h1>
             <p className='text-[#867EB5] text-[22px] py-3'>Here is how we can evaluate</p>
           </div>
-          <div className="grid sm:grid-cols-1 lg:grid-cols-2 gap-8 mt-20">
-            <div className='shadow border rounded-[30px]'>
+          <div className="grid sm:grid-cols-1 lg:grid-cols-2 sm:my-3 gap-8 mt-20">
+            <div className='shadow border px-5 rounded-[30px]'>
               <h1 className='text-[#221577] text-[30px] py-4'>Blue Adnavces</h1>
               <p className='text-[#221577] text-[22px]'>Fund recurring growth expenses e.g. customer acquisition, inventory</p>
 
 
-              <div className='grid lg:grid-cols-3 sm:grid-cols-1 px-10 h-[50vh]'>
+              <div className='grid grid-cols-3  px-10 h-[50vh]'>
                 <div className="shadow h-[200px]   border w-[180px]  text-center rounded-[20px]">
                   <img className='mx-auto' src="https://digital-business-next.vercel.app/_next/image?url=%2Ffeatures%2FFrame-0.png&w=128&q=75" alt="" />
                   <p className='text-[#221577] text-[20px] py-3'>3x monthly revenue</p>
